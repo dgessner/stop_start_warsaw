@@ -2,8 +2,8 @@ Scripts para iniciar e parar o Warsaw no LINUX (Aquele software irritante dos ba
 
 Para iniciar:
 
-sh iniciar_warsaw.sh
+sudo sh iniciar_warsaw.sh
 
 Para parar:
 
-sh parar_warsaw.sh
+sudo sh parar_warsaw.sh
