@@ -1,1 +1,1 @@
-sudo systemctl stop warsaw.service
+systemctl stop warsaw.service
